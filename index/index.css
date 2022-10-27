@@ -1,0 +1,38 @@
+.titulo{
+    color: rgb(11, 11, 11);
+    font-family: 'Fuzzy Bubbles', cursive; 
+    font-size:400%;
+    text-align: center;  
+}
+
+.subtitulo{
+    color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 200%;
+    text-align: center;
+}
+.oraciones{
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 150%;
+}
+
+.paguinasInternas nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction:row;
+    width: 20%;
+}
+
+body {
+    height: 800px;
+    background-image: url("../imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+  }
