@@ -10,6 +10,14 @@
     font-size: 150%;
 }
 
+.paguinasInternas nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    width: 20%;
+}
+
 body {
     height: 800px;
     background-image: url("../imágenes/Diseño\ sin\ título.png");
