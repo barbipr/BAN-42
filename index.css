@@ -19,14 +19,13 @@
     font-size: 150%;
 }
 
-.paguinasInternas nav {
-    display: flex;
-    /*flex-wrap: wrap;
-    justify-content: flex-start;
-    flex-direction: row;
-    width: 20%;*/
+.card-body {
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 100%;
 }
 
+@media (min-width: 576px){
 body {
     height: 800px;
     background-image: url("./imágenes/Diseño\ sin\ título.png");
@@ -37,4 +36,122 @@ body {
     background-attachment: fixed;
     margin: 5% 7% 20% 7%;
     padding: auto;
+}
+}
+@media (min-width: 768px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (min-width: 992px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (min-width: 1200px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (min-width: 1400px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (max-width: 575.98px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (max-width: 767.98px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (max-width: 991.98px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (max-width: 1199.98px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
+}
+@media (max-width: 1399.98px){
+body {
+    height: 800px;
+    background-image: url("./imágenes/Diseño\ sin\ título.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 5% 7% 20% 7%;
+    padding: auto;
+}
 }
