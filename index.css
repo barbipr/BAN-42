@@ -21,22 +21,29 @@
 
 
 .col-sm-4{
-    min-width: 300px;
-    margin-bottom: 0px;
     font-family: 'Indie Flower', cursive;
-    font-size: 100%;
-    align-items: center;
+    font-size: 100%; 
+    padding:10px;
+    height: 400px;
+    width: auto; 
+    margin: auto auto
+    
 }
 
 
 body {
-    height: 800px;
     background-image: url("./imágenes/Diseño\ sin\ título.png");
     background-size: cover;
     background-size: 25rem;
     background-repeat: repeat;
     background-position: center center;
     background-attachment: fixed;
-    margin: 5% 7% 40% 7%;
+    margin: 5% 7% 2% 7%;
 
 }
+
+
+.derechos {
+    text-align: center;
+}
+
